@@ -2,6 +2,7 @@
   "name": "angular-amd",
   "version": "0.2.1",
   "homepage": "https://github.com/sameer-mehta-indianic/angular-amd",
+  "main":"angularAMD.js",
   "authors": [
     "Sameer Mehta <sameer.mehta@indianic.com>"
   ],
